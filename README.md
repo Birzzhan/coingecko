@@ -14,12 +14,13 @@ python main.py
 
 ## Examples
 ```sh
-Enter number to filter: 5 
-btc --- current price:  47920 $
-eth --- current price:  3604.25 $
-ada --- current price:  2.47 $
-usdt --- current price:  1.0 $
-bnb --- current price:  425.92 $
+ Enter number to know top N cryptocurrencies by market capitalization: 6
+ current price of  btc  is:   42382 $
+ current price of  eth  is:   2931.9 $
+ current price of  usdt  is:   1.0 $
+ current price of  ada  is:   2.13 $
+ current price of  bnb  is:   369.51 $
+ current price of  xrp  is:   0.926375 $
 ```
 
 ## License
