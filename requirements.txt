@@ -1,0 +1,3 @@
+pycoingecko>=2.2.0
+python
+windows 8 and later
